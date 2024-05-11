@@ -1,0 +1,74 @@
+.carousel_img img{
+    width:1320px;
+    height: 700px;
+}
+.Discover_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.working_info{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    
+    
+}
+.working_info>.Explore_info{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+}
+.ready_join{
+    width:100%;
+   
+    background:#289BDE ;
+}
+.ready_join_info  {
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    color: white;
+}
+.ready_join_img{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     margin-top: 20px;
+     
+}
+
+/* Frequently_asked css section  */
+
+.Frequently_asked{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Trusted_over section css */
+.Trusted_over{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    column-gap: 20px;
+}
+
+/* footer css */
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: black;
+    padding: 50px;
+    
+}
